@@ -1,9 +1,8 @@
-# Scrum Master Certification
+## Scrum Master Certification
 
 ### Scrum Fundamentals
 - Introdução ao Scrum
-- Por Dentro do Scrum: Responsabilidades, Eventos e
-Artefatos
+- Por Dentro do Scrum: Responsabilidades, Eventos e Artefatos
 - Sobre o Framework Scrum
 - Sobre os Artefatos e Seus Compromissos
 
